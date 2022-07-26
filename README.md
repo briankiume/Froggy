@@ -1,4 +1,4 @@
-# TapeSplit
+# Froggy
 My solution to Codility training [test](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
 
 ## Description
